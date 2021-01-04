@@ -23,7 +23,7 @@ const SideBar = () => (
         I am a a Co-Founder & CTO of a startup named <a href="https://www.vize.mx/acerca-de-nosotros">Vize</a>,
         and will start working at Facebook as a Software Engineer in June 2021.
         I am obsessed with the infinite journey of personal growth and
-        love uncovering new ways to expand and manifest my potential.
+        love uncovering new ways to continue expanding and manifesting my infinite potential.
       </p>
       <ul className="actions">
         <li>

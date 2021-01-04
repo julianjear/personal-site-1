@@ -28,37 +28,33 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 - At 19, I transferred to Texas A&M University to pursue a Computer Science degree.
 - At 20, I became a co-founder of [Vize](https://incentivizinggood.com/), a startup with a mission to give low-skilled workers in developing countries a voice by allowing them to anonymously share their work experiences with their community.
 - At 22, I went on a silent retreat, where I experimented what would happen to The Mind when it became deprived of human interaction and technology for 5 days. You can listen to the reflection of my experience [here](https://infinitemindspodcast.com/2020/04/30/2-silent-retreat-reflection-the-infinite-journey-of-discovering-your-true-self/) .
-- At 23, I completed internships with LinkedIn and Facebook as a Software Engineer and decided to accept Facebook's offer, where I will start working with them in June 2021. I also graduated from Texas A&M with a degree in computer science and survived COVID!
+- At 23, I completed internships with LinkedIn and Facebook as a Software Engineer and decided to accept Facebook's offer, where I will start working with them in June 2021. I also graduated from Texas A&M University with a degree in computer science and survived COVID!
 
-# I like
+# The top 5 things I am interested in learning more about
 
-- Soccer
-- Tennis
-- Snowboarding
-- Ping Pong
-- [Music](https://open.spotify.com/user/126161110?si=80ma-a3bSpexjCqJ75TW-w)
+1. **Productivity**: managing my time better, reducing distractions, planning, making the most out of Notion, etc.
+2. **Learning How to Learn**: improving my reading speed & comprehension, improving my memory, strategies for note taking, etc.
+3. **Investing**: learning how to save money (frugality is a virtue), and learning more about value investing.
+4. **Sales**: I'm currently making calls to factories for my startup and it has been a fascinating challenge. How do you sell yourself and your product/service when you have no credibility? Learning to deal with rejection.
+5. **Product Management**: my biggest goal for 2021 is to finally land a job as an Associate Product Manager at a top teir tech company.
+
+# I enjoy
+
+- **Sports**: Soccer, Tennis, Snowboarding, Ping Pong
+- **Professional Interests**: Entrepreneurship, Product Management, Leading Others, Programming
+- **Mentors**: Tony Robbins, Elon Musk, August Bradley, Tim Ferriss, Jim Kwik, Wim Hof, Naval Ravikant, Tom Bilyeu, Jordan Peterson, Simon Sinek, David Goggins, Shawn Stevenson, and many more.
+- **Personal Growth**: Reading, Journaling, Meditation, Fitness & Health, Learning & Learning How To Learn
+- **Podcasts** ([The Tim Ferris Show](https://tim.blog/podcast/), [The Radically Honest Podcast](https://radicallyhonestpodcast.com/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744), and others)
+- [**Music**](https://open.spotify.com/user/126161110?si=80ma-a3bSpexjCqJ75TW-w): Flume, Above & Beyond, Ben Böhmer, Marsh, Seven Lions, Mac Miller, Drake, Travis Scott, Bad Bunny, Maluma, and so many more.
 - [Nature](https://www.youtube.com/watch?v=Y2SGfMcemaM)
-- Books
-- Journaling
-- Learning & Learning How To Learn
-- Personal Development
-- Entrepreneurship
-- Product Management
-- Leading Others
-- Programming
-- Meditation
-- Fitness & Health
-- Tony Robbins
-- Elon Musk
-- Podcasts ([The Tim Ferris Show](https://tim.blog/podcast/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), and others)
 - Life
 - Being Present
 
 # Fun facts
 
-- I am a first-generation immigrant from [Medellín] (https://en.wikipedia.org/wiki/Medell%C3%ADn), Colombia. I visit Medellín every Christmas (except for the year with COVID in it).
+- I am a first-generation immigrant from [Medellín](https://en.wikipedia.org/wiki/Medell%C3%ADn), Colombia. I visit Medellín every Christmas (except for the year with COVID in it).
+- I've seen my favorite artist, [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe?si=Nsrna9tfStS4kiFpQHkMuA), 10 times! Their Anjunadeep label is what I now listen to 95% of the time.
 - I played the violin in middle school and loved it!
-- I am extremely health conscious and you'll find me eating plants most of the time. Okay... maybe that's not too fun but the energy that I get from being healthy definitely allows me to have soooooo much more fun!
 
 # I dream of
 

@@ -15,7 +15,7 @@ const skills = [
   {
     title: 'SQL',
     competency: 7,
-    category: ['Web Development', 'Frameworks'],
+    category: ['Web Development', 'Backend'],
   },
   {
     title: 'React',
