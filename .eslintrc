@@ -18,11 +18,13 @@
     "no-console": ["error", {
       "allow": ["warn", "error", "info"]
     }],
+    "react/no-unescaped-entities": 0,
     "no-underscore-dangle": 0,
     "react/destructuring-assignment": 0,
     "react/jsx-filename-extension": [1, {
       "extensions": [".js", ".jsx"]
     }],
+    "quotes": [0, "double"],
     "react/jsx-one-expression-per-line": 0,
     "react/jsx-props-no-spreading": 0,
     "react/jsx-wrap-multilines": [1, {

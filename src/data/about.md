@@ -1,91 +1,75 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I graduated from Texas A&M University with a degree in Computer Science; however, my curiosity extends far beyond 1s and 0s. I also love entrepreneurship and business, mainly because they are platforms through which I can extend the impact of my mission. I enjoy using my passions, skills, creativity, aptitude for learning, and unique background to continue pushing the boundaries of what I am capable of so that I can maximize the value I contribute to the Universe.
 
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+# Purpose
+
+I believe that every one of us has a potential of such an extreme magnitude, that most of us are unaware of what we are truly capable of. I live every day with the purpose and relentless determination to empower myself and others to discover and manifest their infinite potential.
 
 # Currently
 
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acerca-de-nosotros) (short for Incentivizing Good), which is a Glassdoor for low skilled workers in developing countries. I will start working at Facebook as a Software Engineer in June 2021. At Vize, I wear many different hats. For example, I'm a full-stack developer, co-lead the engineering and the marketing teams, make sales calls to factories, plan product roadmaps and sprints, define and continuously track our key success metrics, and develop the company's culture.
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+- Born in San Antonio, Texas.
+- Moved to [Medellín, Colombia](https://cdn.kimkim.com/files/a/content_articles/featured_photos/1ad949c863a201daf8589433b4b4f53dcea9bacb/big-2c865b81ba2b66d13bb814a304041332.jpg) (not Columbia) 1 month after I was born. I lived there for 4 years.
+- At 4, I moved to [McAllen, Texas](https://en.wikipedia.org/wiki/McAllen,_Texas).
+- At 6, I started playing Tennis and played many competitive tournaments.
+- 6-14, I overdosed on video games. My favorites include FIFA, Runescape, World of Warcraft, Age of Mythology, Age of Empires 3, and League of Legends.
+- At 13, I was introduced to programming by one of my dad's friends. Together, we built a calculator application for the iPad (for some reason, the iPad did not come with a calculator when it first got released). From this experience, I became fascinated by the challenge of analyzing a situation or process to identify areas for improvement, employing my creativity to develop a software solution, and publishing the software to make it readily available to billions of users worldwide. I realized that programming is not just a tool - it is a platform for enacting meaningful change.
+- At 15, I developed an application named Widgets in Tabs for a school project, which got me featured on the [front cover of the local newspaper](https://www.yourconroenews.com/neighborhood/moco/news/article/Teen-develops-iTunes-app-Widget-Tabs-9261552.php).
+- At 16, I worked together with [The Texas Lyceum](https://www.texaslyceum.org/) and built 3 applications for their quarterly meetings. This was essentially my first job!
+- At 16, I also started an online eBay business where I bought items in bulk from China and resold them on eBay for a profit.
+- At 17, I became the captain of my high school's varsity soccer team.
+- At 18, I hired my first employee for my online eBay business.
+- At 19, I went to my first Tony Robbins seminar: [Unleash The Power Within](https://www.tonyrobbins.com/events/unleash-the-power-within/). This seminar changed my life in many ways. The most significant impact came from redefining my vision and purpose in life to extend far beyond myself. I have since been propelled on a journey where I have been experiencing an exponential growth trajectory. At 21, I went to [Business Mastery](https://www.tonyrobbins.com/events/business-mastery/). At 22, I went to [Life & Wealth Mastery](https://www.tonyrobbins.com/events/life-wealth-mastery/) and [Date with Destiny](https://www.tonyrobbins.com/events/date-with-destiny/).
+- At 19, I transferred to Texas A&M University to pursue a Computer Science degree.
+- At 20, I became a co-founder of [Vize](https://incentivizinggood.com/), a startup with a mission to give low-skilled workers in developing countries a voice by allowing them to anonymously share their work experiences with their community.
+- At 22, I went on a silent retreat, where I experimented what would happen to The Mind when it became deprived of human interaction and technology for 5 days. You can listen to the reflection of my experience [here](https://infinitemindspodcast.com/2020/04/30/2-silent-retreat-reflection-the-infinite-journey-of-discovering-your-true-self/) .
+- At 23, I completed internships with LinkedIn and Facebook as a Software Engineer and decided to accept Facebook's offer, where I will start working with them in June 2021. I also graduated from Texas A&M with a degree in computer science and survived COVID!
 
 # I like
 
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-# Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland.
-
-- In 2020, I stayed in New York.
-
-- I am an Oregon Trail II enthusiast.
+- Soccer
+- Tennis
+- Snowboarding
+- Ping Pong
+- [Music](https://open.spotify.com/user/126161110?si=80ma-a3bSpexjCqJ75TW-w)
+- [Nature](https://www.youtube.com/watch?v=Y2SGfMcemaM)
+- Books
+- Journaling
+- Learning & Learning How To Learn
+- Personal Development
+- Entrepreneurship
+- Product Management
+- Leading Others
+- Programming
+- Meditation
+- Fitness & Health
+- Tony Robbins
+- Elon Musk
+- Podcasts ([The Tim Ferris Show](https://tim.blog/podcast/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), and others)
+- Life
+- Being Present
 
 # Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [skateboard](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just a resume.
+- I am a bundle of fun 😝
+- I played the violin in middle school and loved it.
+- I am extremely health conscious and you'll find me eating plants most of the time. Okay... maybe that's not too fun but the energy that I get from being healthy definitely allows me to have soooooo much more fun!
+- I am a first-generation immigrant from [Medellín] (https://en.wikipedia.org/wiki/Medell%C3%ADn), Colombia. I visit Medellín every Christmas (except for the year with COVID in it).
 
 # I dream of
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking the commit history for earlier drafts of this file.
+- Manifesting my infinite potential and empowering others to do the same.
+- Inspiring others to do the things that inspire them.
+- Inventing the Future.
+- Starting a company and becoming a CEO.
+- Writing many best selling books.
+- Having a podcast with millions of listeners.
+- Becoming a billionaire.
+- Creating a legacy that will echo throughout eternity.
+- Making my dreams a reality.
+
