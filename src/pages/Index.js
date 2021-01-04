@@ -5,13 +5,13 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
+    description={"Julian Alvarez's personal website. New York based Stanford ICME graduate, "
     + 'co-founder and CTO of Arthena, and YC Alumni.'}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">HELLO WORLD! ¡HOLA!</Link></h2>
           <p>
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
@@ -25,7 +25,6 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
   </Main>
 );
