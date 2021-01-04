@@ -14,7 +14,7 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 # Some history
 
 - Born in San Antonio, Texas.
-- Moved to [Medellín, Colombia](https://cdn.kimkim.com/files/a/content_articles/featured_photos/1ad949c863a201daf8589433b4b4f53dcea9bacb/big-2c865b81ba2b66d13bb814a304041332.jpg) (not Columbia) 1 month after I was born. I lived there for 4 years.
+- Moved to [Medellín, Colombia](https://cdn.kimkim.com/files/a/content_articles/featured_photos/1ad949c863a201daf8589433b4b4f53dcea9bacb/big-2c865b81ba2b66d13bb814a304041332.jpg) 1 month after I was born. I lived there for 4 years.
 - At 4, I moved to [McAllen, Texas](https://en.wikipedia.org/wiki/McAllen,_Texas).
 - At 6, I started playing Tennis and played many competitive tournaments.
 - 6-14, I overdosed on video games. My favorites include FIFA, Runescape, World of Warcraft, Age of Mythology, Age of Empires 3, and League of Legends.
@@ -62,13 +62,13 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 
 # I dream of
 
-- Manifesting my infinite potential and empowering others to do the same.
-- Inspiring others to do the things that inspire them.
-- Inventing the Future.
-- Starting a company and becoming a CEO.
-- Writing many best selling books.
-- Having a podcast with millions of listeners.
-- Becoming a billionaire.
-- Creating a legacy that will echo throughout eternity.
-- Making my dreams a reality.
+- Manifesting my infinite potential and empowering others to do the same
+- Inspiring others to do the things that inspire them
+- Inventing the Future
+- Starting a company and becoming a CEO
+- Writing many best selling books
+- Having a podcast with millions of listeners
+- Becoming a billionaire
+- Creating a legacy that will echo throughout eternity
+- Making my dreams a reality
 

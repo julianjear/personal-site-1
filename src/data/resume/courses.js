@@ -40,6 +40,11 @@ const courses = [
     link: 'http://people.tamu.edu/~abmendoza/csce465/spring2019.html',
     univerity: 'Texas A&M University',
   }, {
+    title: 'PRINCIPLES OF DATA SCIENCE',
+    number: 'CSCE 320',
+    link: 'https://catalog.tamu.edu/undergraduate/course-descriptions/csce/',
+    univerity: 'Texas A&M University',
+  }, {
     title: 'INFORMATION STORAGE AND RETRIEVAL',
     number: 'CSCE 470',
     link: 'http://courses.cse.tamu.edu/caverlee/csce470/',

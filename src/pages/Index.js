@@ -19,11 +19,10 @@ const Index = () => (
         </div>
       </header>
       <p> Hello friends! I'm Julian and I'm an entrepreneur, software engineer, and podcaster.
-        Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        Please feel free to read more <Link to="/about">about me</Link>.
+        You can also check out my {' '}
+        <Link to="/resume">resume</Link> {' '}
+        or <Link to="/contact">contact me</Link>.
       </p>
       <h3>The Launch of My New Podcast, Inventing The Future</h3>
       <p>

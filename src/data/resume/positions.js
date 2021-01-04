@@ -29,7 +29,7 @@ const positions = [
     link: 'https://www.linkedin.com/',
     daterange: 'May 2018 - Aug 2018',
     points: [
-      'A 16-week internship where I worked as a backend engineer on the LinkedIn Learning team. Our mission is to empower every member of the global workforce to develop the skills they need to realize economic opportunity',
+      'A 16-week internship where I worked as a backend engineer on the LinkedIn Learning team. Our mission is to empower every member of the global workforce to develop the skills they need to realize economic opportunity.',
       'Configured all courses to have questions enabled by default, which increased the number of questions asked on courses by ~10%.',
       'Created a LinkedIn notification with a ~40% CTR that informs course instructors when there is a new question asked in their course.',
       'Created a product specification for a social learning feature and some of my ideas made it on the product roadmap for the feature.',
