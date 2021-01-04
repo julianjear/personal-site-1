@@ -4,12 +4,14 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
+import OtherEducation from '../components/Resume/OtherEducation';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import References from '../components/Resume/References';
 
 import courses from '../data/resume/courses';
+import otherCourses from '../data/resume/otherCourses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
@@ -25,7 +27,7 @@ const sections = [
 const Resume = () => (
   <Main
     title="Resume"
-    description="Julian Alvarez's Resume. Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet Labs, and Facebook."
+    description="Julian Alvarez's Resume. Vize, Facebook, LinkedIn, Goldman Sachas, Texas A&M, Stanford Design School."
   >
     <article className="post" id="resume">
       <header>
@@ -41,6 +43,7 @@ const Resume = () => (
         </div>
       </header>
       <Education data={degrees} />
+      <OtherEducation data={otherCourses} />
       <Experience data={positions} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />

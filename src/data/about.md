@@ -56,10 +56,9 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 
 # Fun facts
 
-- I am a bundle of fun 😝
-- I played the violin in middle school and loved it.
-- I am extremely health conscious and you'll find me eating plants most of the time. Okay... maybe that's not too fun but the energy that I get from being healthy definitely allows me to have soooooo much more fun!
 - I am a first-generation immigrant from [Medellín] (https://en.wikipedia.org/wiki/Medell%C3%ADn), Colombia. I visit Medellín every Christmas (except for the year with COVID in it).
+- I played the violin in middle school and loved it!
+- I am extremely health conscious and you'll find me eating plants most of the time. Okay... maybe that's not too fun but the energy that I get from being healthy definitely allows me to have soooooo much more fun!
 
 # I dream of
 
