@@ -15,7 +15,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Hello Universe! ¡Hola Amigos! 🚀</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Hello Universe! ¡Hola Amigos! 👋</Link></h2>
         </div>
       </header>
       <p> Hello friends! I'm Julian and I'm an entrepreneur, software engineer, and podcaster.

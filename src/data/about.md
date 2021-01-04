@@ -32,19 +32,19 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 
 # The top 5 things I am interested in learning more about
 
-1. **Productivity**: managing my time better, reducing distractions, planning, making the most out of Notion, etc.
-2. **Learning How to Learn**: improving my reading speed & comprehension, improving my memory, strategies for note taking, etc.
-3. **Investing**: learning how to save money (frugality is a virtue), and learning more about value investing.
-4. **Sales**: I'm currently making calls to factories for my startup and it has been a fascinating challenge. How do you sell yourself and your product/service when you have no credibility? Learning to deal with rejection.
-5. **Product Management**: my biggest goal for 2021 is to finally land a job as an Associate Product Manager at a top teir tech company.
+1. **Productivity:** managing my time better, reducing distractions, planning, making the most out of Notion, etc.
+2. **Learning How to Learn:** improving my reading speed & comprehension, improving my memory, strategies for note taking, etc.
+3. **Investing:** learning how to save money (frugality is a virtue), and learning more about value investing.
+4. **Sales:** I'm currently making calls to factories for my startup and it has been a fascinating challenge. How do you sell yourself and your product/service when you have no credibility? Learning to deal with rejection.
+5. **Product Management:** my biggest goal for 2021 is to finally land a job as an Associate Product Manager at a top teir tech company.
 
 # I enjoy
 
-- **Sports**: Soccer, Tennis, Snowboarding, Ping Pong
-- **Professional Interests**: Entrepreneurship, Product Management, Leading Others, Programming
-- **Mentors**: Tony Robbins, Elon Musk, August Bradley, Tim Ferriss, Jim Kwik, Wim Hof, Naval Ravikant, Tom Bilyeu, Jordan Peterson, Simon Sinek, David Goggins, Shawn Stevenson, and many more.
-- **Personal Growth**: Reading, Journaling, Meditation, Fitness & Health, Learning & Learning How To Learn
-- **Podcasts** ([The Tim Ferris Show](https://tim.blog/podcast/), [The Radically Honest Podcast](https://radicallyhonestpodcast.com/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744), and others)
+- **Sports:** Soccer, Tennis, Snowboarding, Ping Pong
+- **Professional Interests:** Entrepreneurship, Product Management, Leading Others, Programming
+- **Mentors:** Tony Robbins, Elon Musk, August Bradley, Tim Ferriss, Jim Kwik, Wim Hof, Naval Ravikant, Tom Bilyeu, Jordan Peterson, Simon Sinek, David Goggins, Shawn Stevenson, and many more.
+- **Personal Growth:** Reading, Journaling, Meditation, Fitness & Health, Learning & Learning How To Learn
+- **Podcasts:**([The Tim Ferris Show](https://tim.blog/podcast/), [The Radically Honest Podcast](https://radicallyhonestpodcast.com/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744), and others)
 - [**Music**](https://open.spotify.com/user/126161110?si=80ma-a3bSpexjCqJ75TW-w): Flume, Above & Beyond, Ben Böhmer, Marsh, Seven Lions, Mac Miller, Drake, Travis Scott, Bad Bunny, Maluma, and so many more.
 - [Nature](https://www.youtube.com/watch?v=Y2SGfMcemaM)
 - Life
