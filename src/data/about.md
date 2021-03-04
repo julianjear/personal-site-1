@@ -41,8 +41,8 @@ I am a co-founder and the CTO of a startup named [Vize](https://www.vize.mx/acer
 # I enjoy
 
 - **Sports:** Soccer, Tennis, Snowboarding, Ping Pong
-- **Professional Interests:** Entrepreneurship, Product Management, Leading Others, Programming
-- **Mentors:** Tony Robbins, Elon Musk, August Bradley, Tim Ferriss, Jim Kwik, Wim Hof, Naval Ravikant, Tom Bilyeu, Jordan Peterson, Simon Sinek, David Goggins, Shawn Stevenson, and many more.
+- **Professional Interests:** Entrepreneurship, Productivity, Product Management, Leading Others, Exponential Technologies (AI, VR/AR, 3D Printing, etc.), Systems Thinking / Creating Systems, Programming
+- **Mentors:** Tony Robbins, Peter Diamandis, Elon Musk, August Bradley, Tim Ferriss, Keith Ferrazzi, Jim Kwik, Wim Hof, Naval Ravikant, Tom Bilyeu, Jordan Peterson, Simon Sinek, David Goggins, Shawn Stevenson, and many more.
 - **Personal Growth:** Reading, Journaling, Meditation, Fitness & Health, Learning & Learning How To Learn
 - **Podcasts:**([The Tim Ferris Show](https://tim.blog/podcast/), [The Radically Honest Podcast](https://radicallyhonestpodcast.com/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this), [Impact Theory](https://impacttheory.com/), [Naval](https://nav.al/), [How to Start a Startup](https://player.fm/series/how-to-start-a-startup), [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744), and others)
 - [**Music**](https://open.spotify.com/user/126161110?si=80ma-a3bSpexjCqJ75TW-w): Flume, Above & Beyond, Ben Böhmer, Marsh, Seven Lions, Mac Miller, Drake, Travis Scott, Bad Bunny, Maluma, and so many more.
